@@ -47,3 +47,29 @@ header h2 {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveButton .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginButton .modal-header {
+  background-color: #901CAD;
+  color: white; }
+
+  .fa.fa-twitter{
+    font-family:sans-serif;
+  }
+
+  .fa.fa-twitter {
+    content:"𝕏";
+    font-size:1.2em;
+    color: black;
+    background-color: white;
+  }
+
+  .fa.fa-twitter::before{
+    content:"𝕏";
+    font-size:1.2em;
+    color: black;
+    background-color: white;
+  }

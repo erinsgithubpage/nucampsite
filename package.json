@@ -29,9 +29,14 @@
     "usemin-cli": "^0.6.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "font-awesome": "^6.5.2",
+    "font-awesome": "^5.15.4",
+    "font-awesome": "^4.7.0",
+
     "bootstrap": "^4.5.2",
     "bootstrap-social": "^5.1.1",
-    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   }
